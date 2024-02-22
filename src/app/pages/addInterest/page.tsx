@@ -129,7 +129,7 @@ function AddInterest() {
           <BackButton />
           <button
             type="submit"
-            className="w-1/2 px-3 text-end text-base font-light outline-none md:pr-10"
+            className="w-1/2 md:w-full px-3 text-end text-base font-light outline-none md:pr-10"
             style={{
               background:
                 "linear-gradient(134.86deg, #ABFFFD 2.64%, #4599DB 102.4%, #AADAFF 102.4%)",
